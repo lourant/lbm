@@ -1,0 +1,21 @@
+{
+	"connectingName": "ml",
+	"method": "ftp",
+	"host": "ftp.michaellourant.com.br",
+	"port": "21",
+	"username": "bandarad",
+	"rsaPath": "",
+	"password": "6IKZQNXv5G",
+	"serverPath": "/public_html/",
+	"save": false,
+	"siteUrl": "",
+	"method_p": "ftp",
+	"host_p": "",
+	"port_p": "21",
+	"username_p": "",
+	"rsaPath_p": "",
+	"password_p": "",
+	"serverPath_p": "",
+	"siteUrl_p": "",
+	"prfver": "1.1"
+}
