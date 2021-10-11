@@ -1,0 +1,999 @@
+# Translation of Themes - Catch Base in Japanese
+# This file is distributed under the same license as the Themes - Catch Base package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-16 07:36:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Catch Base\n"
+
+#: inc/catchbase-default-options.php:566 inc/catchbase-default-options.php:569
+msgid "Y"
+msgstr "Y"
+
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:30
+msgid "All Categories"
+msgstr "すべてのカテゴリー"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:34
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件の返信"
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; への1件の返信"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"
+
+#: inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Catch Base Pro"
+msgstr "Catch Base プロ"
+
+#: inc/customizer-includes/catchbase-customizer.php:218
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr "保存した後にカスタマイザーページをリフレッシュして、リセットエフェクトを表示する"
+
+#: inc/catchbase-core.php:661
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr "<span class=\"screen-reader-text\">投稿日</span>"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:386
+msgid "Scrollup Options"
+msgstr "上スクロール設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:396
+msgid "Check to disable Scroll Up"
+msgstr "チェックして上スクロールを無効化"
+
+#: inc/catchbase-default-options.php:450
+msgid "Link"
+msgstr "リンク"
+
+#: inc/catchbase-default-options.php:446
+msgid "Cloud"
+msgstr "クラウド"
+
+#: inc/catchbase-default-options.php:438
+msgid "Handset"
+msgstr "ハンドセット"
+
+#: inc/catchbase-default-options.php:442
+msgid "Cart"
+msgstr "カート"
+
+#: inc/catchbase-default-options.php:434
+msgid "Phone"
+msgstr "電話番号"
+
+#: inc/catchbase-default-options.php:430
+msgid "Website"
+msgstr "Web サイト"
+
+#: sidebar.php:37
+msgid "Primary Sidebar Widget Area"
+msgstr "メインサイドバーウィジェットエリア"
+
+#: sidebar-secondary.php:28
+msgid "Secondary Sidebar Widget Area"
+msgstr "2番目のサイドバーウィジェットエリア"
+
+#: sidebar-secondary.php:31
+msgid "This is the Secondary Sidebar Widget Area if you are using a three column site layout option."
+msgstr "3列のサイトレイアウトオプションを使用している場合、これは2番目のサイドバーウィジェットエリアです。"
+
+#: sidebar.php:40
+msgid "This is the Primary Sidebar Widget Area if you are using a two or three column site layout option."
+msgstr "2または3列のサイトレイアウトオプションを使用している場合、1番目のサイドバーウィジェットエリアです。"
+
+#: sidebar-secondary.php:32 sidebar.php:41
+msgid "By default it will load Search and Archives widgets as shown below. You can add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> which will replace default widgets."
+msgstr "デフォルトでは、以下のように検索ウィジェットとアーカイブウィジェットがロードされます。このエリアにウィジェットを追加するには、デフォルトのウィジェットを置き換える<a href=\"%s\">ウィジェットパネル</a>を訪れてください。"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:14 searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/customizer-includes/catchbase-customizer.php:143
+msgid "Caution: Reset all settings to default. Refresh the page after save to view full effects."
+msgstr "警告: すべての設定をデフォルトにリセットします。全効果を表示するには保存後ページを再読み込みしてください。"
+
+#: inc/customizer-includes/catchbase-customizer.php:145
+msgid "Reset all settings"
+msgstr "すべての設定をリセット"
+
+#: inc/customizer-includes/catchbase-customizer.php:156
+msgid "Check to reset all settings to default"
+msgstr "チェックしてすべての設定をリセット"
+
+#: inc/customizer-includes/catchbase-customizer.php:166
+#: inc/customizer-includes/catchbase-customizer.php:177
+msgid "Important Links"
+msgstr "重要なリンク"
+
+#: no-results.php:14
+msgid "Error 404-Page NOT Found"
+msgstr "エラー 404 - ページが見つかりません"
+
+#: inc/customizer-includes/catchbase-customizer.php:84
+msgid "Logo Alt Text"
+msgstr "ロゴの alt テキスト"
+
+#: inc/customizer-includes/catchbase-customizer.php:100
+msgid "Check to move Site Title and Tagline before logo"
+msgstr "チェックしてサイトタイトルとキャッチフレーズをロゴの前に移動"
+
+#: inc/customizer-includes/catchbase-customizer.php:118
+msgid "Color Scheme"
+msgstr "配色 "
+
+#: inc/customizer-includes/catchbase-customizer.php:55
+msgid "Check to disable logo"
+msgstr "チェックしてロゴを無効化"
+
+#: inc/customizer-includes/catchbase-customizer.php:70
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:358
+msgid "Promotion Headline Link"
+msgstr "プロモーション見出しリンク"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:405
+msgid "Change default placeholder text in Search."
+msgstr "検索のデフォルト仮テキストを変更。"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:408
+msgid "Search Options"
+msgstr "検索設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:419
+msgid "Default Display Text in Search"
+msgstr "検索フィールドのデフォルトテキスト"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:204
+msgid "Archive Content Layout"
+msgstr "アーカイブコンテンツレイアウト"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:235
+msgid "Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack Plugin</a> with Infinite Scroll module Enabled."
+msgstr "無限スクロールオプションを使うには <a target=\"_blank\" href=\"%s\">Jetpack プラグイン</a>の無限スクロールモジュールを有効化する必要があります。"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:257
+msgid "Pagination Options"
+msgstr "ページ送り設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:268
+msgid "Pagination type"
+msgstr "ページ送りのタイプ"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:280
+msgid "Promotion Headline Options"
+msgstr "プロモーション見出し設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:291
+msgid "Enable Promotion Headline on"
+msgstr "プロモーション見出しを有効化:"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:307
+msgid "Appropriate Words: 10"
+msgstr "適切な文字数: 10"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:308
+msgid "Promotion Headline Text"
+msgstr "プロモーション見出しテキスト"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:324
+msgid "Appropriate Words: 15"
+msgstr "適切な文字数: 15"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:325
+msgid "Promotion Subheadline Text"
+msgstr "プロモーション小見出しテキスト"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:341
+msgid "Appropriate Words: 3"
+msgstr "適切な文字数: 3"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:342
+msgid "Promotion Headline Button Text "
+msgstr "プロモーション見出しボタンテキスト "
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:246
+msgid "Numeric Option requires <a target=\"_blank\" href=\"%s\">WP-PageNavi Plugin</a>."
+msgstr "数値オプションには、<a target=\"_blank\" href=\"%s\">WP-PageNavi プラグイン</a>が必要です。"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:277
+msgid "To disable the fields, simply leave them empty."
+msgstr "フィールドを無効にするには、空のままにしておきます。"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:41
+msgid "Check to enable Breadcrumb"
+msgstr "チェックしてパンくずリストを有効化"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:54
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr "チェックしてホームページでパンくずリストを有効化"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:71
+msgid "Separator between Breadcrumbs"
+msgstr "パンくずリストの区切り記号"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:85
+msgid "Custom/Inline CSS"
+msgstr "カスタム/インライン CSS"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:88
+msgid "Custom CSS Options"
+msgstr "カスタム CSS 設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:98
+msgid "Enter Custom CSS"
+msgstr "カスタム CSS を入力"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:111
+msgid "Excerpt Options"
+msgstr "抜粋設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:128
+msgid "Excerpt Length (words)"
+msgstr "抜粋の長さ (文字数)"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:142
+msgid "Read More Text"
+msgstr "「続きを読む」テキスト"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:151
+msgid "Only posts that belong to the categories selected here will be displayed on the front page"
+msgstr "ここで選択したカテゴリーに投稿された記事のみがフロントページに表示されます"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:154
+msgid "Homepage / Frontpage Options"
+msgstr "ホームページ / フロントページ設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:164
+msgid "Select Categories"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:190
+msgid "Default Layout"
+msgstr "デフォルトレイアウト"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:121
+msgid "Excerpt length. Default is 40 words"
+msgstr "抜粋の長さ。デフォルトは40文字"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:30
+msgid "Breadcrumb Options"
+msgstr "パンくずリスト設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:28
+msgid "Breadcrumbs are a great way of letting your visitors find out where they are on your site with just a glance. You can enable/disable them on homepage and entire site."
+msgstr "パンくずリストは訪問者がサイトのどこにあるのかを一目で把握するのに最適な方法です。ホームページやサイト全体で有効/無効にすることができます。"
+
+#: inc/customizer-includes/catchbase-customizer-social-icons.php:21
+#: inc/customizer-includes/catchbase-customizer-social-icons.php:27
+msgid "Social Links"
+msgstr "ソーシャルリンク"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:20
+msgid "Basic theme Options"
+msgstr "基本テーマ設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:23
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/customizer-includes/catchbase-customizer-social-icons.php:19
+msgid "Note: Enter the url for correponding social networking website"
+msgstr "注: 対応するソーシャルネットワーキングウェブサイトの URL を入力してください"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:374
+#: inc/customizer-includes/catchbase-customizer-header-options.php:86
+msgid "Check to Open Link in New Window/Tab"
+msgstr "チェックしてリンクを新しいウィンドウまたはタブで開く"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:155
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:184
+msgid "Featured Page"
+msgstr "おすすめページ"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:62
+msgid "Select Featured Content Layout"
+msgstr "おすすめコンテンツのレイアウトを選択"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:77
+msgid "Check to Move above Footer"
+msgstr "チェックしてフッターの上に移動"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:100
+msgid "Image Loader"
+msgstr "画像ローダー"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:93
+msgid "Select Content Type"
+msgstr "コンテンツタイプの選択"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:109
+msgid "Leave field empty if you want to remove Headline"
+msgstr "見出しを削除したい場合は、フィールドを空のままにしてください"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:110
+msgid "Headline for Featured Content"
+msgstr "おすすめコンテンツの見出し"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:127
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr "小見出しを削除したい場合は、フィールドを空のままにしてください"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:128
+msgid "Sub-headline for Featured Content"
+msgstr "おすすめコンテンツの小見出し"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:151
+msgid "No of Featured Content"
+msgstr "おすすめコンテンツの数"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:21
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:33
+msgid "Featured Slider"
+msgstr "おすすめスライダー"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:45
+msgid "Enable Slider on"
+msgstr "スライダーを有効化:"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:60
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:79
+msgid "seconds(s)"
+msgstr "秒"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:64
+msgid "Transition Delay"
+msgstr "遷移遅延"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:83
+msgid "Transition Length"
+msgstr "遷移の長さ"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:116
+msgid "Select Slider Type"
+msgstr "スライダーの種類を選択"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:131
+msgid "Save and refresh the page if No. of Slides is changed (Max no of slides is 20)"
+msgstr "スライドの数が変更された場合、保存してページを再読み込みしてください (スライド数の上限は20枚)"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:138
+msgid "No of Slides"
+msgstr "スライドの数"
+
+#: inc/customizer-includes/catchbase-customizer-header-options.php:25
+msgid "Enable Featured Header Image on "
+msgstr "ヘッダーアイキャッチ画像設定を有効化: "
+
+#: inc/customizer-includes/catchbase-customizer-header-options.php:41
+msgid "Page/Post Featured Header Image Size"
+msgstr "ページ・投稿ヘッダーアイキャッチ画像サイズ"
+
+#: inc/customizer-includes/catchbase-customizer-header-options.php:56
+msgid "Featured Header Image Alt/Title Tag "
+msgstr "ヘッダーアイキャッチ画像 alt/title タグ "
+
+#: inc/customizer-includes/catchbase-customizer-header-options.php:71
+msgid "Featured Header Image Link URL"
+msgstr "ヘッダーアイキャッチ画像リンク URL"
+
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:19
+#: inc/customizer-includes/catchbase-customizer-featured-slider.php:27
+msgid "Featured Slider Options"
+msgstr "おすすめスライダーオプション"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:19
+msgid "Options for Featured Content"
+msgstr "おすすめコンテンツ設定"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:28
+msgid "Featured Content Options"
+msgstr "おすすめコンテンツ設定"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:168
+msgid "Display Content"
+msgstr "コンテンツを表示"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:144
+msgid "Save and refresh the page if No. of Featured Content is changed (Max no of Featured Content is 20)"
+msgstr "おすすめコンテンツの数が変更された場合、ページを保存して更新します（おすすめコンテンツの最大数は20）"
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:46
+msgid "Enable Featured Content on"
+msgstr "おすすめコンテンツを有効化"
+
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:78
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:66
+msgid "Review"
+msgstr "レビュー"
+
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:62
+msgid "Donate Now"
+msgstr "今すぐ寄付"
+
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:58
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: inc/catchbase-widgets.php:41
+msgid "Secondary Sidebar"
+msgstr "サイドバー2"
+
+#: inc/catchbase-widgets.php:54
+msgid "Footer Area %d"
+msgstr "フッターエリア %d"
+
+#: inc/catchbase-widgets.php:60
+msgid "Footer %d widget area."
+msgstr "フッター %d ウィジェットエリア。"
+
+#: inc/catchbase-widgets.php:80
+msgid "CT: Social Icons"
+msgstr "CT: ソーシャルアイコン"
+
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:37
+msgid "Hold down the Ctrl (windows) / Command (Mac) button to select multiple options."
+msgstr "複数のオプションを選択するには Ctrl (Windows) / Command (Mac) キーを押しながら選択してください。"
+
+#: inc/catchbase-widgets.php:36
+msgid "This is the primary sidebar if you are using a two or three column site layout option."
+msgstr "2カラムまたは3カラムを使用している場合、これがメインのサイドバーになります。"
+
+#: inc/catchbase-widgets.php:47
+msgid "This is the secondary sidebar if you are using a three column site layout option."
+msgstr "3カラムを使用している場合、これがサブのサイドバーになります。"
+
+#: inc/catchbase-widgets.php:122
+msgid "Title (optional):"
+msgstr "タイトル (オプション): "
+
+#: inc/catchbase-widgets.php:81
+msgid "Use this widget to add Social Icons as a widget. "
+msgstr "このウィジェットを使用して、ソーシャルアイコンをウィジェットとして追加する"
+
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:54
+msgid "Support"
+msgstr "サポート"
+
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:50
+msgid "Theme Instructions"
+msgstr "テーマの説明"
+
+#: inc/catchbase-widgets.php:30
+msgid "Primary Sidebar"
+msgstr "メインサイドバー"
+
+#: inc/catchbase-metabox.php:98
+msgid "Header Featured Image Options"
+msgstr "ヘッダーアイキャッチ画像設定"
+
+#: inc/catchbase-metabox.php:177
+msgid "Catchbase Options"
+msgstr "Catchbase 設定"
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:217
+msgid "Single Page/Post Image Layout "
+msgstr "個別ページ・投稿の画像レイアウト "
+
+#: inc/customizer-includes/catchbase-customizer-theme-options.php:179
+#: inc/catchbase-metabox.php:81
+msgid "Layout Options"
+msgstr "レイアウト設定"
+
+#: inc/catchbase-menus.php:146 inc/catchbase-menus.php:165
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/catchbase-menus.php:44
+msgid "Search"
+msgstr "検索開始"
+
+#: inc/catchbase-menus.php:28 inc/catchbase-menus.php:70
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/catchbase-featured-slider.php:181 inc/catchbase-featured-slider.php:190
+#: inc/catchbase-featured-slider.php:206 inc/catchbase-featured-slider.php:216
+#: inc/catchbase-featured-content.php:278
+#: inc/catchbase-featured-content.php:289
+msgid "Permalink to:"
+msgstr "パーマリンク先: "
+
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:21
+#: inc/customizer-includes/catchbase-customizer-featured-content-setting.php:34
+#: inc/catchbase-featured-content.php:56
+msgid "Featured Content"
+msgstr "おすすめコンテンツ"
+
+#: inc/catchbase-default-options.php:551
+msgid "Disable Image"
+msgstr "画像を無効化"
+
+#: inc/catchbase-default-options.php:572
+msgid "by"
+msgstr "by"
+
+#: inc/catchbase-default-options.php:536
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: inc/catchbase-default-options.php:514
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/catchbase-default-options.php:509
+msgid "Enable"
+msgstr "有効化"
+
+#: inc/catchbase-default-options.php:394
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/catchbase-default-options.php:468 inc/catchbase-default-options.php:504
+#: inc/catchbase-default-options.php:531
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/catchbase-default-options.php:418
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/catchbase-default-options.php:406
+msgid "Stumbleupon"
+msgstr "StumbleUpon"
+
+#: inc/catchbase-default-options.php:398
+msgid "Digg"
+msgstr "Digg"
+
+#: inc/catchbase-default-options.php:402
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/catchbase-default-options.php:410
+msgid "Pocket"
+msgstr "Pocket"
+
+#: inc/catchbase-default-options.php:414
+msgid "DropBox"
+msgstr "DropBox"
+
+#: inc/catchbase-default-options.php:426
+msgid "Twitch"
+msgstr "Twitch"
+
+#: inc/catchbase-default-options.php:422
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: inc/catchbase-default-options.php:390
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/catchbase-default-options.php:374
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/catchbase-default-options.php:382
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/catchbase-default-options.php:386
+msgid "Path"
+msgstr "Path"
+
+#: inc/catchbase-default-options.php:378
+msgid "PollDaddy"
+msgstr "PollDaddy"
+
+#: inc/catchbase-default-options.php:370
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/catchbase-default-options.php:366
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/catchbase-default-options.php:362
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/catchbase-default-options.php:358
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/catchbase-default-options.php:354
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:82
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/catchbase-default-options.php:346
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/catchbase-default-options.php:350
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/catchbase-default-options.php:342
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/catchbase-default-options.php:338
+msgid "Feed"
+msgstr "フィード"
+
+#: inc/catchbase-default-options.php:330
+msgid "Googleplus"
+msgstr "Google+"
+
+#: inc/catchbase-social-icons.php:37 inc/catchbase-default-options.php:334
+msgid "Email"
+msgstr "メール"
+
+#: inc/catchbase-default-options.php:326
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:74
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/catchbase-default-options.php:322
+#: inc/customizer-includes/catchbase-customizer-custom-controls.php:70
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/catchbase-default-options.php:306
+msgid "Slider Image Size"
+msgstr "スライダー画像サイズ"
+
+#: inc/catchbase-default-options.php:305
+msgid "Full size"
+msgstr "フルサイズ"
+
+#: inc/catchbase-default-options.php:304
+msgid "Medium"
+msgstr "中"
+
+#: inc/catchbase-default-options.php:303
+msgid "Large"
+msgstr "大"
+
+#: inc/catchbase-default-options.php:288
+msgid "Infinite Scroll (Click)"
+msgstr "無限スクロール (クリック)"
+
+#: inc/catchbase-default-options.php:289
+msgid "Infinite Scroll (Scroll)"
+msgstr "無限スクロール (スクロール)"
+
+#: inc/catchbase-default-options.php:286
+msgid "Default(Older Posts/Newer Posts)"
+msgstr "デフォルト (過去の投稿/新しい投稿)"
+
+#: inc/catchbase-default-options.php:287
+msgid "Numeric"
+msgstr "数字"
+
+#: inc/catchbase-default-options.php:258
+msgid "Show Full Content"
+msgstr "全文を表示"
+
+#: inc/catchbase-default-options.php:197
+msgid "Large Image"
+msgstr "大サイズ画像"
+
+#: inc/catchbase-default-options.php:198 inc/catchbase-default-options.php:546
+msgid "Slider Image"
+msgstr "スライダー画像"
+
+#: inc/catchbase-default-options.php:243
+msgid "3 columns"
+msgstr "3カラム"
+
+#: inc/catchbase-default-options.php:244
+msgid "4 columns"
+msgstr "4カラム"
+
+#: inc/catchbase-default-options.php:259
+msgid "Hide Content"
+msgstr "コンテンツを非表示"
+
+#: inc/catchbase-default-options.php:179 inc/catchbase-default-options.php:213
+msgid "Entire Site"
+msgstr "サイト全体"
+
+#: inc/catchbase-default-options.php:176 inc/catchbase-default-options.php:212
+msgid "Homepage / Frontpage"
+msgstr "ホームページ / フロントページ"
+
+#: inc/catchbase-default-options.php:161 inc/catchbase-default-options.php:257
+msgid "Show Excerpt"
+msgstr "抜粋を表示"
+
+#: inc/catchbase-default-options.php:146 inc/catchbase-default-options.php:478
+msgid "Content, Primary Sidebar"
+msgstr "コンテンツ、メインサイドバー"
+
+#: inc/catchbase-default-options.php:148 inc/catchbase-default-options.php:488
+msgid "No Sidebar ( Content Width )"
+msgstr "サイドバーなし (コンテンツ幅)"
+
+#: inc/catchbase-default-options.php:162
+msgid "Show Full Content (No Featured Image)"
+msgstr "全文を表示 (アイキャッチ画像なし)"
+
+#: inc/catchbase-default-options.php:177
+msgid "Excluding Homepage"
+msgstr "ホームページを除く"
+
+#: inc/catchbase-default-options.php:178
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr "ホームページ、ページ・投稿アイキャッチ画像を覗く"
+
+#: inc/catchbase-default-options.php:180
+msgid "Entire Site, Page/Post Featured Image"
+msgstr "サイト全体、ページ・投稿アイキャッチ画像"
+
+#: inc/catchbase-default-options.php:181
+msgid "Pages and Posts"
+msgstr "ページと投稿"
+
+#: inc/catchbase-default-options.php:182 inc/catchbase-default-options.php:214
+#: inc/catchbase-default-options.php:307
+msgid "Disabled"
+msgstr "無効化"
+
+#: inc/catchbase-default-options.php:196 inc/catchbase-default-options.php:541
+msgid "Full Image"
+msgstr "フルサイズ画像"
+
+#: inc/catchbase-default-options.php:145 inc/catchbase-default-options.php:473
+msgid "Primary Sidebar, Content"
+msgstr "メインサイドバー、コンテンツ"
+
+#: inc/catchbase-default-options.php:147 inc/catchbase-default-options.php:483
+msgid "Three Columns ( Secondary Sidebar, Content, Primary Sidebar )"
+msgstr "3カラム ( サブサイドバー、コンテンツ、メインサイドバー )"
+
+#: inc/catchbase-default-options.php:131
+msgid "Dark"
+msgstr "ダーク"
+
+#: inc/catchbase-default-options.php:115
+msgid "True"
+msgstr "真"
+
+#: inc/catchbase-default-options.php:116
+msgid "Wait"
+msgstr "待機"
+
+#: inc/catchbase-default-options.php:117
+msgid "False"
+msgstr "偽"
+
+#: inc/catchbase-default-options.php:130
+msgid "Light"
+msgstr "ライト"
+
+#: inc/catchbase-default-options.php:68
+msgid "Reviews"
+msgstr "レビュー"
+
+#: inc/catchbase-default-options.php:73
+msgid "Search..."
+msgstr "検索…"
+
+#: inc/catchbase-default-options.php:56
+msgid "Read More ..."
+msgstr "続きを読む…"
+
+#: inc/catchbase-default-options.php:66
+msgid "Catch Base is a Premium Responsive WordPress Theme"
+msgstr "Catch Base はプレミアムなレスポンシブ WordPress テーマです"
+
+#: inc/catchbase-core.php:1433
+msgid "Previous post:"
+msgstr "前の記事:"
+
+#: inc/catchbase-core.php:1432
+msgid "&larr; Previous"
+msgstr "&larr; 前へ"
+
+#: inc/catchbase-core.php:1430
+msgid "Next post:"
+msgstr "次の記事:"
+
+#: inc/catchbase-core.php:1429
+msgid "Next &rarr;"
+msgstr "次へ &rarr;"
+
+#: inc/catchbase-core.php:1388
+msgid "By"
+msgstr "から"
+
+#: inc/catchbase-core.php:1387
+msgid "Posted on"
+msgstr "投稿日"
+
+#: inc/catchbase-core.php:1369
+msgid "Scroll Up"
+msgstr "上にスクロール"
+
+#: inc/catchbase-core.php:708
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr "<span class=\"screen-reader-text\">タグ</span>"
+
+#: inc/catchbase-core.php:700
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr "<span class=\"screen-reader-text\">カテゴリー</span>"
+
+#: inc/catchbase-core.php:697 inc/catchbase-core.php:705
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "、"
+
+#: inc/catchbase-core.php:676
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/catchbase-core.php:676
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/catchbase-core.php:676
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: inc/catchbase-core.php:668
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr "<span class=\"screen-reader-text\">投稿者</span>"
+
+#: inc/catchbase-core.php:558
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/catchbase-core.php:551
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/catchbase-core.php:545
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">のコメント:</span>"
+
+#: inc/catchbase-core.php:535
+msgid "Pingback:"
+msgstr "ピンバック: "
+
+#: inc/catchbase-core.php:513
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい記事 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/catchbase-core.php:512
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 以前の記事"
+
+#: inc/catchbase-core.php:503
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: inc/catchbase-core.php:103 inc/catchbase-menus.php:69
+msgid "Secondary Menu"
+msgstr "サブメニュー"
+
+#: inc/catchbase-core.php:102 inc/catchbase-menus.php:27
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/catchbase-breadcrumb.php:223
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/catchbase-breadcrumb.php:62
+msgid "Error 404"
+msgstr "404 エラー"
+
+#: inc/catchbase-breadcrumb.php:58
+msgid "%1$s Archive for %2$s"
+msgstr "%2$s の %1$s アーカイブ"
+
+#: inc/catchbase-breadcrumb.php:59
+msgid "%1$sSearch results for: %2$s"
+msgstr "%1$s検索結果: %2$s"
+
+#: inc/catchbase-breadcrumb.php:60
+msgid "%1$sPosts tagged %2$s"
+msgstr "%1$s以下のタグがついた投稿: %2$s"
+
+#: inc/catchbase-breadcrumb.php:61
+msgid "%1$sView all posts by %2$s"
+msgstr "%1$sユーザーの投稿をすべて表示: %2$s"
+
+#: inc/catchbase-breadcrumb.php:57
+msgid "Home"
+msgstr "ホーム"
+
+#: content-page.php:35 inc/catchbase-core.php:535 inc/catchbase-core.php:554
+#: inc/catchbase-core.php:680
+msgid "Edit"
+msgstr "編集"
+
+#: content-single.php:31 content.php:46 content-page.php:28
+msgid "Pages:"
+msgstr "ページ: "
+
+#: no-results.php:29 content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: no-results.php:24 content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: no-results.php:20 content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:52 comments.php:77
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:51 comments.php:76
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:50 comments.php:75
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: sidebar-secondary.php:45 sidebar.php:54
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "このページは見つかりません。"
