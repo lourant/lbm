@@ -13,13 +13,12 @@
  * * Prefixo do banco de dados
  * * ABSPATH
  *
- * @link https://codex.wordpress.org/pt-br:Editando_wp-config.php
+ * @link https://wordpress.org/support/article/editing-wp-config-php/
  *
  * @package WordPress
  */
 
-// ** Configurações do MySQL - Você pode pegar estas informações
-// com o serviço de hospedagem ** //
+// ** Configurações do MySQL - Você pode pegar estas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
 define( 'DB_NAME', 'nome_do_banco_de_dados_aqui' );
 
@@ -68,7 +67,7 @@ define( 'NONCE_SALT',       'coloque a sua frase única aqui' );
  * Você pode ter várias instalações em um único banco de dados se você der
  * um prefixo único para cada um. Somente números, letras e sublinhados!
  */
-$table_prefix  = 'wp_';
+$table_prefix = 'wp_';
 
 /**
  * Para desenvolvedores: Modo de debug do WordPress.
@@ -81,7 +80,7 @@ $table_prefix  = 'wp_';
  * Para informações sobre outras constantes que podem ser utilizadas
  * para depuração, visite o Codex.
  *
- * @link https://codex.wordpress.org/pt-br:Depura%C3%A7%C3%A3o_no_WordPress
+ * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
 
@@ -89,8 +88,8 @@ define( 'WP_DEBUG', false );
 
 /** Caminho absoluto para o diretório WordPress. */
 if ( ! defined( 'ABSPATH' ) ) {
-	define( 'ABSPATH', dirname( __FILE__ ) . '/' );
+	define( 'ABSPATH', __DIR__ . '/' );
 }
 
 /** Configura as variáveis e arquivos do WordPress. */
-require_once( ABSPATH . 'wp-settings.php' );
+require_once ABSPATH . 'wp-settings.php';
